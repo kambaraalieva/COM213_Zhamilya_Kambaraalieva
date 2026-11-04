@@ -18,12 +18,12 @@ This repository contains my lab files and screenshots documenting my work for th
 | [Lab 9](Lab9) | Database Design Basics |
 | [Lab 10](Lab10) | Viewing Database and Table Structure |
 | [Lab 11](Lab11) | Basic Data Operations |
-| Lab 12 | Querying Data |
-| Lab 13 | Aggregate Functions |
-| Lab 14 | Joining Tables |
-| Lab 15 | Advanced Querying |
-| Lab 16 | Transactions and ACID Properties |
-| Lab 17 | Data Import, Export, and Backup |
+| [Lab 12](Lab12) | Querying Data |
+| [Lab 13](Lab13) | Aggregate Functions |
+| [Lab 14](Lab14) | Joining Tables |
+| [Lab 15](Lab15)| Advanced Querying |
+| [Lab 16](Lab16) | Transactions and ACID Properties |
+| [Lab 17](Lab17) | Data Import, Export, and Backup |
 | Oracle Academy | Exempt — internship certificate to be submitted|
 
 ## Attendance
